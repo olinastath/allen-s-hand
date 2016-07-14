@@ -1237,7 +1237,9 @@
 
 .fadeIn {
   -webkit-animation-name: fadeIn;
+  -webkit-animation-duration: 2s;
   animation-name: fadeIn;
+  animation-duration: 2s;
 }
 
 @-webkit-keyframes fadeInDown {
