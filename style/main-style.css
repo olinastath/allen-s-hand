@@ -7,7 +7,7 @@ body {
 	font-family: 'Raleway', sans-serif !important;
 	background-color: black !important;
 	color: white !important;
-	background-image: url("C:/Users/Olina St/Desktop/Olina/CS/Allen's Hand/allens-hand/images/background.jpg") !important;
+	background-image: url("../images/background.jpg") !important;
 	background-repeat: no-repeat;
 	-webkit-background-size: cover;
 	   -moz-background-size: cover;
