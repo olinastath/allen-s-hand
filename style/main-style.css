@@ -77,6 +77,10 @@ h1 {
 	font-weight: 100;
 }
 
+#current a {
+	color: #e6c52c !important;
+}
+
 
 /* Home section */
 #home-container {
