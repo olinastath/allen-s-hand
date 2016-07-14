@@ -1,0 +1,75 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,100,200,200italic,100italic,300,300italic,400italic,500,500italic,600,600italic,900,800italic,900italic,800,700italic,700);
+
+body {
+	font-family: 'Raleway', sans-serif !important;
+	background-color: black !important;
+	color: white !important;
+}
+
+a:hover {
+	text-decoration: none !important;
+}
+
+nav {
+	margin-top: 60px;
+	margin-left: -10px;
+	position: absolute;
+	right: 10%;
+	vertical-align: middle;
+}
+
+nav a {
+	padding-right: 20px;
+}
+
+a {
+	color: white !important;
+	text-decoration: none !important;
+}
+
+a:hover {
+	color: #e6c52c !important;
+}
+
+.social {
+	margin-left: 50px;
+}
+
+#nav-container {
+	background-color: rgba(0,0,0,0.8);
+	z-index: 100;
+	position: fixed;
+	width: 90%;
+	left: 5%;
+	display: block;
+}
+
+#news-container {
+	position: absolute;
+	width: 55%;
+	left:5%;
+	margin-top: 180px;
+	
+}
+
+#news-header {
+	text-align: center;
+}
+
+#news {
+	margin-left: 10px;
+	text-align: left;
+	display: inline-block;
+}
+
+#album-container {
+	position: absolute;
+	width: 30%;
+	left: 62%;
+	margin-top: 180px;
+	text-align: center;
+}
+
+#album-container i {
+	color: #e6c52c;
+}
